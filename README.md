@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Adelina 👋
+- 🔭 I’m currently working as a Software Developer
 
 <!--
 **adelinamfatu/adelinamfatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
