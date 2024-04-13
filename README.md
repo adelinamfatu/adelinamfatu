@@ -1,6 +1,7 @@
 ### Hi there, I'm Adelina 👋
 - 🔭 I’m currently working as a Software Developer
-
+- 💻 I've graduated from the Faculty of Cybernetics, Statistics and Economic Informatics in 2023
+- 📚 I'm currently a Master's student in E-Business
 <!--
 **adelinamfatu/adelinamfatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
